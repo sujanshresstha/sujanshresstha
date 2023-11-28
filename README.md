@@ -64,7 +64,7 @@
 <br>
 <div align=center>
   
-  <img width=390 src="https://github-readme-stats-sujanshresstha.vercel.app/api?username=sujanshresstha&count_private=true&show_icons=true&theme=blueberry&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sujanshresstha&count_private=true&show_icons=true&theme=blueberry&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 <hr/>
 
