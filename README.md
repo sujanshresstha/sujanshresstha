@@ -5,22 +5,22 @@
 </h1>
 </h1>
 
-<h3 align="center">A passionate machine learning engineer specializing in Computer Vision. I like solving complex problems revolving around data. I am also a secondary web developer!</h3>
+<h3 align="center">A passionate machine learning engineer specializing in Computer Vision. I like solving complex problems revolving around data. I am also intrested in web development!</h3>
 
 <br/>
 
 <div align="center">
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Data Science and Artificial Intelligence.
 
 🔭 Researching and experimenting with multimodel Vision Models.
 
 🌱 I’m learning something new every day.
 
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in Full Stack Machine Learning Application development.
 
-💖 In a complicated relationship with Neural Networks
+💖 In a complicated relationship with Neural Networks.
 
-🎵 Love lofi, jazz and soft music
+🎵 Love lofi, jazz and soft music.
 
  </div>
  
@@ -50,10 +50,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sujanshresstha/sujanshresstha/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
 
 <hr/>
