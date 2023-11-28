@@ -16,8 +16,6 @@
 
 🌱 I’m learning something new every day.
 
-🌟 Main languages: Python, JavaScript
-
 🚩 Interested in Full Stack Machine Learning Application development
 
 💖 In a complicated relationship with Neural Networks
@@ -43,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=py%2Ctensorflow%2Cpytorch%2Ccmake%2Cc%2Cjava%2Cmatlab%2Ccpp&perline=15&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js%2Cnodejs%2Creact%2Cmongodb%2Cexpress%2Cfigma%2Cfirebase%2Cflask%2Cgit%2Csass%2Cwebpack&perline=15&theme=light" /><br>
 </div>
 
 <br/>
